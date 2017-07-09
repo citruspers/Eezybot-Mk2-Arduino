@@ -3,7 +3,8 @@ Code and diagram for controlling the Eezybot mk2 using an Arduino and some basic
 
 ![Fully Assembled](http://i.imgur.com/SRPi8C9.jpg)
 
-**Scope/target audience:** Let's say you've just printed your eezybot and wish to write some code to control it. This will hopefully be a good starting point.
+**Scope/target audience:** You've just printed your eezybot mk2 and want to try it out? This code should help.
+Want to write your own code? Feel free to use this as a starting point, or just a reference.
 
 **Requirements:**
 
@@ -15,7 +16,7 @@ Code and diagram for controlling the Eezybot mk2 using an Arduino and some basic
 * 3x MG995 Servo
 * 1x breadboard
 * Plenty of dupont leads (you never have enough....)
-* External power supply capable of 5v2A at the very least
+* External power supply capable of 5V, 3A (you can probably get by with 2A if you're careful and use good potmeters)
 
 **Instructions:**
 
